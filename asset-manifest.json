@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Maximum-VI/it-website-lpn.git/static/css/main.1a8e34fa.css",
+    "main.js": "/Maximum-VI/it-website-lpn.git/static/js/main.b99306f9.js",
+    "index.html": "/Maximum-VI/it-website-lpn.git/index.html",
+    "main.1a8e34fa.css.map": "/Maximum-VI/it-website-lpn.git/static/css/main.1a8e34fa.css.map",
+    "main.b99306f9.js.map": "/Maximum-VI/it-website-lpn.git/static/js/main.b99306f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8e34fa.css",
+    "static/js/main.b99306f9.js"
+  ]
+}
